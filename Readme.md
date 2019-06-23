@@ -1,4 +1,4 @@
-# Kenzo's Musings
+# Kenzo’s Musings
 
-This is my blog's repo on Github, hosted on Github pages.
+This is my blog’s repo on Github, hosted on Github pages.
 
